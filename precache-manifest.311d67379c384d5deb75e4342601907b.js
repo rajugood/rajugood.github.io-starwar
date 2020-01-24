@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cca6afa1c0286dc1eb3b2fac2b41e57c",
+    "revision": "6e6969b5753f8082e8f754beff0bc32b",
     "url": "/rajugood.github.io-starwar/index.html"
   },
   {
-    "revision": "f5417b31a8325975b7d2",
+    "revision": "3de85235cda5cd7c7bcb",
     "url": "/rajugood.github.io-starwar/static/css/main.5ebb2f4b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rajugood.github.io-starwar/static/js/2.e17d7e38.chunk.js.LICENSE"
   },
   {
-    "revision": "f5417b31a8325975b7d2",
-    "url": "/rajugood.github.io-starwar/static/js/main.aa5db921.chunk.js"
+    "revision": "3de85235cda5cd7c7bcb",
+    "url": "/rajugood.github.io-starwar/static/js/main.99715230.chunk.js"
   },
   {
     "revision": "fdfd03935bb03951fc70",
