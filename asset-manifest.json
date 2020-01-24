@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rajugood.github.io-starwar/static/css/main.5ebb2f4b.chunk.css",
-    "main.js": "/rajugood.github.io-starwar/static/js/main.5d694463.chunk.js",
-    "main.js.map": "/rajugood.github.io-starwar/static/js/main.5d694463.chunk.js.map",
+    "main.js": "/rajugood.github.io-starwar/static/js/main.aa5db921.chunk.js",
+    "main.js.map": "/rajugood.github.io-starwar/static/js/main.aa5db921.chunk.js.map",
     "runtime-main.js": "/rajugood.github.io-starwar/static/js/runtime-main.754f99d7.js",
     "runtime-main.js.map": "/rajugood.github.io-starwar/static/js/runtime-main.754f99d7.js.map",
     "static/js/2.e17d7e38.chunk.js": "/rajugood.github.io-starwar/static/js/2.e17d7e38.chunk.js",
     "static/js/2.e17d7e38.chunk.js.map": "/rajugood.github.io-starwar/static/js/2.e17d7e38.chunk.js.map",
     "index.html": "/rajugood.github.io-starwar/index.html",
-    "precache-manifest.d4a11c1bdd7f1c05648fd1cced49bc74.js": "/rajugood.github.io-starwar/precache-manifest.d4a11c1bdd7f1c05648fd1cced49bc74.js",
+    "precache-manifest.49c6e74977d13a8f9b6d2d3981c302f4.js": "/rajugood.github.io-starwar/precache-manifest.49c6e74977d13a8f9b6d2d3981c302f4.js",
     "service-worker.js": "/rajugood.github.io-starwar/service-worker.js",
     "static/css/main.5ebb2f4b.chunk.css.map": "/rajugood.github.io-starwar/static/css/main.5ebb2f4b.chunk.css.map",
     "static/js/2.e17d7e38.chunk.js.LICENSE": "/rajugood.github.io-starwar/static/js/2.e17d7e38.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.754f99d7.js",
     "static/js/2.e17d7e38.chunk.js",
     "static/css/main.5ebb2f4b.chunk.css",
-    "static/js/main.5d694463.chunk.js"
+    "static/js/main.aa5db921.chunk.js"
   ]
 }
