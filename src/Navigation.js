@@ -4,6 +4,7 @@ import {
     HashRouter,
     Switch,
     Route,
+    Link,
     Redirect
 } from "react-router-dom";
 import Login from './Login';
@@ -12,6 +13,10 @@ import Dashboard from './Dashboard';
 export default function Authenticate() {
     return (
         <HashRouter basename="/">
+            <ul>
+            <li><Link to="/login">Login</Link></li>
+            <li><Link to="/dashboard">Dashboard</Link></li>
+          </ul>
             <Switch>
                 <ValidateSession path="/login">
                     <Login />
