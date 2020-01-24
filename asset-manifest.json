@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/rajugood.github.io-starwar/static/css/main.5ebb2f4b.chunk.css",
-    "main.js": "/rajugood.github.io-starwar/static/js/main.ef9c9926.chunk.js",
-    "main.js.map": "/rajugood.github.io-starwar/static/js/main.ef9c9926.chunk.js.map",
+    "main.js": "/rajugood.github.io-starwar/static/js/main.f1ee6056.chunk.js",
+    "main.js.map": "/rajugood.github.io-starwar/static/js/main.f1ee6056.chunk.js.map",
     "runtime-main.js": "/rajugood.github.io-starwar/static/js/runtime-main.754f99d7.js",
     "runtime-main.js.map": "/rajugood.github.io-starwar/static/js/runtime-main.754f99d7.js.map",
-    "static/js/2.beb1decf.chunk.js": "/rajugood.github.io-starwar/static/js/2.beb1decf.chunk.js",
-    "static/js/2.beb1decf.chunk.js.map": "/rajugood.github.io-starwar/static/js/2.beb1decf.chunk.js.map",
+    "static/js/2.e17d7e38.chunk.js": "/rajugood.github.io-starwar/static/js/2.e17d7e38.chunk.js",
+    "static/js/2.e17d7e38.chunk.js.map": "/rajugood.github.io-starwar/static/js/2.e17d7e38.chunk.js.map",
     "index.html": "/rajugood.github.io-starwar/index.html",
-    "precache-manifest.addb73dfe4dab8794dc840df0c3f024d.js": "/rajugood.github.io-starwar/precache-manifest.addb73dfe4dab8794dc840df0c3f024d.js",
+    "precache-manifest.528dca6997431f7450ea824e05d11d3b.js": "/rajugood.github.io-starwar/precache-manifest.528dca6997431f7450ea824e05d11d3b.js",
     "service-worker.js": "/rajugood.github.io-starwar/service-worker.js",
     "static/css/main.5ebb2f4b.chunk.css.map": "/rajugood.github.io-starwar/static/css/main.5ebb2f4b.chunk.css.map",
-    "static/js/2.beb1decf.chunk.js.LICENSE": "/rajugood.github.io-starwar/static/js/2.beb1decf.chunk.js.LICENSE"
+    "static/js/2.e17d7e38.chunk.js.LICENSE": "/rajugood.github.io-starwar/static/js/2.e17d7e38.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.754f99d7.js",
-    "static/js/2.beb1decf.chunk.js",
+    "static/js/2.e17d7e38.chunk.js",
     "static/css/main.5ebb2f4b.chunk.css",
-    "static/js/main.ef9c9926.chunk.js"
+    "static/js/main.f1ee6056.chunk.js"
   ]
 }
