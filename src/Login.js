@@ -48,7 +48,9 @@ class Login extends Component {
                                 <label className="login-label">Password: </label><input className="form-control" type="password" value={this.state.password} onChange={this.handleInputChange} name="password" />
                                 <br />
                                 <button className="btn btn-primary" onClick={this.handleLogin}>Submit</button>
-                                {this.props.user.isLoginError ? (<span>Please provide valid username and password!</span>) : ''}
+                                <br/>
+                                {this.props.user.isLoginError ? (<div class="alert alert-warning" role="alert">
+                                    Please provide valid username and password!</div>) : ''}
                             </form>
                         </div>
 
