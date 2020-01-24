@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/starwar/static/css/main.7e660580.chunk.css",
-    "main.js": "/starwar/static/js/main.1f34ce5a.chunk.js",
-    "main.js.map": "/starwar/static/js/main.1f34ce5a.chunk.js.map",
-    "runtime-main.js": "/starwar/static/js/runtime-main.0457e57d.js",
-    "runtime-main.js.map": "/starwar/static/js/runtime-main.0457e57d.js.map",
-    "static/js/2.c3a539a1.chunk.js": "/starwar/static/js/2.c3a539a1.chunk.js",
-    "static/js/2.c3a539a1.chunk.js.map": "/starwar/static/js/2.c3a539a1.chunk.js.map",
-    "index.html": "/starwar/index.html",
-    "precache-manifest.122af6a1571e0b5fdf1e369f879ae9de.js": "/starwar/precache-manifest.122af6a1571e0b5fdf1e369f879ae9de.js",
-    "service-worker.js": "/starwar/service-worker.js",
-    "static/css/main.7e660580.chunk.css.map": "/starwar/static/css/main.7e660580.chunk.css.map",
-    "static/js/2.c3a539a1.chunk.js.LICENSE": "/starwar/static/js/2.c3a539a1.chunk.js.LICENSE"
+    "main.css": "/rajugood.github.io-starwar/static/css/main.7e660580.chunk.css",
+    "main.js": "/rajugood.github.io-starwar/static/js/main.88badbc8.chunk.js",
+    "main.js.map": "/rajugood.github.io-starwar/static/js/main.88badbc8.chunk.js.map",
+    "runtime-main.js": "/rajugood.github.io-starwar/static/js/runtime-main.754f99d7.js",
+    "runtime-main.js.map": "/rajugood.github.io-starwar/static/js/runtime-main.754f99d7.js.map",
+    "static/js/2.c3a539a1.chunk.js": "/rajugood.github.io-starwar/static/js/2.c3a539a1.chunk.js",
+    "static/js/2.c3a539a1.chunk.js.map": "/rajugood.github.io-starwar/static/js/2.c3a539a1.chunk.js.map",
+    "index.html": "/rajugood.github.io-starwar/index.html",
+    "precache-manifest.278eeaf668a53462076daa770fa428ad.js": "/rajugood.github.io-starwar/precache-manifest.278eeaf668a53462076daa770fa428ad.js",
+    "service-worker.js": "/rajugood.github.io-starwar/service-worker.js",
+    "static/css/main.7e660580.chunk.css.map": "/rajugood.github.io-starwar/static/css/main.7e660580.chunk.css.map",
+    "static/js/2.c3a539a1.chunk.js.LICENSE": "/rajugood.github.io-starwar/static/js/2.c3a539a1.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.0457e57d.js",
+    "static/js/runtime-main.754f99d7.js",
     "static/js/2.c3a539a1.chunk.js",
     "static/css/main.7e660580.chunk.css",
-    "static/js/main.1f34ce5a.chunk.js"
+    "static/js/main.88badbc8.chunk.js"
   ]
 }

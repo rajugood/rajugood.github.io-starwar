@@ -2,7 +2,7 @@
   "name": "star-war-search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rajugood.github.io/starwar/",
+  "homepage": "https://rajugood.github.io/rajugood.github.io-starwar/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
