@@ -1,6 +1,7 @@
 import React from "react";
 import {
     BrowserRouter as Router,
+    HashRouter,
     Switch,
     Route,
     Redirect
@@ -10,7 +11,7 @@ import Dashboard from './Dashboard';
 
 export default function Authenticate() {
     return (
-        <Router>
+        <HashRouter basename="/">
             <Switch>
                 <ValidateSession path="/login">
                     <Login />
@@ -19,7 +20,7 @@ export default function Authenticate() {
                     <Dashboard />
                 </ValidateLogin>
             </Switch>
-        </Router>
+        </HashRouter>
     );
 }
 
